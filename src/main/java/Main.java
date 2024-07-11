@@ -32,7 +32,7 @@ public class Main {
                 System.out.println("Too large, please try again");
             } else {
                 System.out.println("Correct guess! You guessed the " + mysteryNum + " in " + totalGuesses + " attempts");
-
+// used if-else if because there were more than 2 options. Next time i could consider using a case break
             }
 
 
